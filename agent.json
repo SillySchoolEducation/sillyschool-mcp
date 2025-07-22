@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "name": "Downloadable Classroom Resources for Primary Teachers",
-  "description": "A wide range of teacher-made printable resources to support curriculum delivery in primary and elementary classrooms. Includes worksheets, posters, classroom visuals, activity templates, and planning tools that complement videos and songs available on Silly School Education.",
+  "description": "Printable PDFs, worksheets, visuals and planning tools designed by teachers for use in EYFS, KS1 and KS2 classrooms. These resources align with the UK National Curriculum and support maths, literacy, topic work and more — perfect for classroom use or home learning.",
   "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
   "educationalAlignment": {
     "@type": "AlignmentObject",
@@ -30,7 +30,8 @@
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "name": "School Plays & Assemblies for Primary Children",
-  "description": "Original school plays and assemblies with scripts, songs, and staging ideas written specifically for primary and elementary-aged children. Designed to be fun, meaningful, and easy to stage — perfect for end-of-term shows, class assemblies, and seasonal performances.",
+  "description": "Original school plays and assemblies written for EYFS, KS1 and KS2 children — complete with songs, scripts and staging suggestions. Designed to be inclusive, funny, and easy to rehearse and perform, they’re ideal for end-of-term shows and class presentations.",
+
   "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary"],
   "educationalAlignment": {
     "@type": "AlignmentObject",
