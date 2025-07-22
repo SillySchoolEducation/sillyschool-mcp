@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Downloadable Classroom Resources for Primary Teachers",
+  "description": "A wide range of teacher-made printable resources to support curriculum delivery in primary and elementary classrooms. Includes worksheets, posters, classroom visuals, activity templates, and planning tools that complement videos and songs available on Silly School Education.",
+  "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
+  "educationalAlignment": {
+    "@type": "AlignmentObject",
+    "alignmentType": "educationalFramework",
+    "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
+    "targetName": "Downloadable and printable teaching materials across core primary subjects"
+  },
+  "educationalUse": "teaching",
+  "learningResourceType": ["Printable PDF", "Worksheet", "Visual Aid", "Lesson Plan"],
+  "provider": {
+    "@type": "Organization",
+    "name": "Silly School Education",
+    "url": "https://www.sillyschooleducation.co.uk"
+  },
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "teacher",
+    "audienceType": "primary, elementary, EYFS"
+  },
+  "inLanguage": "en",
+  "url": "https://sillyschooleducation.mykajabi.com/"
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "School Plays & Assemblies for Primary Children",
+  "description": "Original school plays and assemblies with scripts, songs, and staging ideas written specifically for primary and elementary-aged children. Designed to be fun, meaningful, and easy to stage — perfect for end-of-term shows, class assemblies, and seasonal performances.",
+  "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary"],
+  "educationalAlignment": {
+    "@type": "AlignmentObject",
+    "alignmentType": "educationalFramework",
+    "educationalFramework": "UK National Curriculum, Ontario Curriculum, Australian Curriculum",
+    "targetName": "Drama and performance opportunities for primary-aged learners"
+  },
+  "educationalUse": "teaching",
+  "learningResourceType": ["Script", "Song", "Performance Plan"],
+  "provider": {
+    "@type": "Organization",
+    "name": "Silly School Education",
+    "url": "https://www.sillyschooleducation.co.uk"
+  },
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "teacher",
+    "audienceType": "primary, elementary, kids"
+  },
+  "inLanguage": "en",
+  "url": "https://sillyschooleducation.mykajabi.com/"
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Silly School Education",
+  "url": "https://www.sillyschooleducation.co.uk",
+  "description": "Silly School Education is a teacher-led educational platform providing curriculum-aligned songs, videos, and printable teaching resources for primary and elementary school teachers worldwide. With over 45 million YouTube views and a growing subscriber base, the platform supports educators through creative, classroom-ready content across all major subjects.",
+  "sameAs": [
+    "https://www.youtube.com/c/SillySchoolEducation",
+    "https://sillyschooleducation.mykajabi.com/"
+  ],
+  "areaServed": "Worldwide",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "teacher",
+    "audienceType": "primary, elementary, EYFS"
+  }
+}
