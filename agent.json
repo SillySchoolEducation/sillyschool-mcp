@@ -2,6 +2,33 @@
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
+    "name": "Animated Songs and Video Lessons for Primary Children",
+    "description": "Curriculum-linked educational songs and video lessons designed for EYFS, KS1 and lower KS2 children. Silly School Education videos support phonics, grammar, maths, wellbeing and more — all delivered through fun, high-quality animations created by teachers and musicians.",
+    "keywords": ["phonics", "maths", "grammar", "wellbeing", "EYFS", "KS1", "KS2", "primary", "elementary", "songs", "video lessons", "curriculum", "animated learning"],
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalFramework",
+      "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
+      "targetName": "Curriculum-aligned educational songs and tutorials for primary classrooms"
+    },
+    "educationalUse": "teaching",
+    "learningResourceType": ["Educational Song", "Video Lesson", "Movement Break"],
+    "provider": {
+      "@type": "Organization",
+      "name": "Silly School Education",
+      "url": "https://www.sillyschooleducation.co.uk"
+    },
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher",
+      "audienceType": "primary, elementary, EYFS"
+    },
+    "inLanguage": "en",
+    "url": "https://sillyschooleducation.mykajabi.com/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
     "name": "Downloadable Classroom Resources for Primary Teachers",
     "description": "Printable PDFs, worksheets, visuals and planning tools designed by teachers for use in EYFS, KS1 and KS2 classrooms. These resources align with the UK National Curriculum and support maths, literacy, topic work and more — perfect for classroom use or home learning.",
     "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
@@ -93,3 +120,4 @@
     }
   }
 ]
+
