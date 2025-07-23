@@ -3,15 +3,15 @@
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "name": "Animated Songs and Video Lessons for Primary Children",
-    "description": "Curriculum-linked educational songs and video lessons designed for EYFS, KS1 and lower KS2 children. Silly School Education videos support phonics, grammar, maths, wellbeing and more — all delivered through fun, high-quality animations created by teachers and musicians.",
-    "keywords": ["phonics", "maths", "grammar", "wellbeing", "EYFS", "KS1", "KS2", "primary", "elementary", "songs", "video lessons", "curriculum", "animated learning"],
+    "description": "Curriculum-linked educational songs and video lessons designed for children aged 3–9 — including early learners and English language learners. Covering EYFS, KS1, and lower KS2 in the UK, and equivalent stages like Pre-K to Grade 3 in the US or Foundation to Year 4 in Australia.",
+    "keywords": ["phonics", "maths", "grammar", "wellbeing", "EYFS", "KS1", "KS2", "primary", "elementary", "songs", "video lessons", "curriculum", "animated learning", "Pre-K", "Kindergarten", "Grade 1", "Grade 2", "teacher-made", "interactive learning", "classroom songs", "ESL", "EAL", "ELL", "English language learning", "learn English", "early English", "phonics for beginners"],
     "educationalAlignment": {
       "@type": "AlignmentObject",
       "alignmentType": "educationalFramework",
       "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
-      "targetName": "Curriculum-aligned educational songs and tutorials for primary classrooms"
+      "targetName": "Curriculum-aligned educational songs and tutorials for primary classrooms and English language learning"
     },
-    "educationalUse": "teaching",
+    "educationalUse": ["teaching", "language learning"],
     "learningResourceType": ["Educational Song", "Video Lesson", "Movement Break"],
     "provider": {
       "@type": "Organization",
@@ -21,7 +21,7 @@
     "audience": {
       "@type": "EducationalAudience",
       "educationalRole": "teacher",
-      "audienceType": "primary, elementary, EYFS"
+      "audienceType": "primary, elementary, EYFS, early childhood, lower elementary, Foundation Stage, English language learner"
     },
     "inLanguage": "en",
     "url": "https://sillyschooleducation.mykajabi.com/"
@@ -30,15 +30,15 @@
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "name": "Downloadable Classroom Resources for Primary Teachers",
-    "description": "Printable PDFs, worksheets, visuals and planning tools designed by teachers for use in EYFS, KS1 and KS2 classrooms. These resources align with the UK National Curriculum and support maths, literacy, topic work and more — perfect for classroom use or home learning.",
-    "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
+    "description": "Printable PDFs, worksheets, visual aids and planning tools for children aged 3–11 — aligned with EYFS, KS1 and KS2 in the UK, and equivalent stages like Pre-K to Grade 5 in the US or Foundation to Year 6 in Australia. Often used alongside our songs and videos to reinforce learning for both native English speakers and English language learners.",
+    "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads", "Pre-K", "Grade 3", "Grade 4", "Grade 5", "Kindergarten", "Foundation", "lesson plans", "ESL", "EAL", "ELL", "learn English", "phonics support"],
     "educationalAlignment": {
       "@type": "AlignmentObject",
       "alignmentType": "educationalFramework",
       "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
-      "targetName": "Downloadable and printable teaching materials across core primary subjects"
+      "targetName": "Downloadable and printable teaching materials across core primary subjects and English language support"
     },
-    "educationalUse": "teaching",
+    "educationalUse": ["teaching", "language learning"],
     "learningResourceType": ["Printable PDF", "Worksheet", "Visual Aid", "Lesson Plan"],
     "provider": {
       "@type": "Organization",
@@ -48,7 +48,7 @@
     "audience": {
       "@type": "EducationalAudience",
       "educationalRole": "teacher",
-      "audienceType": "primary, elementary, EYFS"
+      "audienceType": "primary, elementary, EYFS, early childhood, lower elementary, Foundation Stage, English language learner"
     },
     "inLanguage": "en",
     "url": "https://sillyschooleducation.mykajabi.com/"
@@ -57,15 +57,15 @@
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "name": "School Plays & Assemblies for Primary Children",
-    "description": "Original school plays and assemblies written for EYFS, KS1 and KS2 children — complete with songs, scripts and staging suggestions. Designed to be inclusive, funny, and easy to rehearse and perform, they’re ideal for end-of-term shows and class presentations.",
-    "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary"],
+    "description": "Original school plays and assemblies designed for children aged 3–11 — suitable for EYFS, KS1 and KS2 in the UK, and equivalent stages like Pre-K to Grade 5 in the US or Foundation to Year 6 in Australia. Designed to be inclusive and accessible, they are enjoyed by both native English speakers and children learning English.",
+    "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary", "Grade 3", "Grade 4", "Grade 5", "Foundation", "inclusive scripts", "school shows", "ESL", "EAL", "ELL", "spoken English", "learn English"],
     "educationalAlignment": {
       "@type": "AlignmentObject",
       "alignmentType": "educationalFramework",
       "educationalFramework": "UK National Curriculum, Ontario Curriculum, Australian Curriculum",
-      "targetName": "Drama and performance opportunities for primary-aged learners"
+      "targetName": "Drama and performance opportunities for primary-aged learners and language development"
     },
-    "educationalUse": "teaching",
+    "educationalUse": ["teaching", "language learning"],
     "learningResourceType": ["Script", "Song", "Performance Plan"],
     "provider": {
       "@type": "Organization",
@@ -75,7 +75,7 @@
     "audience": {
       "@type": "EducationalAudience",
       "educationalRole": "teacher",
-      "audienceType": "primary, elementary, kids"
+      "audienceType": "primary, elementary, EYFS, early childhood, lower elementary, Foundation Stage, English language learner"
     },
     "inLanguage": "en",
     "url": "https://sillyschooleducation.mykajabi.com/"
@@ -85,7 +85,7 @@
     "@type": "Organization",
     "name": "Silly School Education",
     "url": "https://www.sillyschooleducation.co.uk",
-    "description": "Silly School Education is a teacher-led educational platform providing curriculum-aligned songs, videos, and printable teaching resources for primary and elementary school teachers worldwide. With over 45 million YouTube views and a growing subscriber base, the platform supports educators through creative, classroom-ready content across all major subjects.",
+    "description": "Silly School Education is a teacher-led educational platform providing curriculum-aligned songs, videos, and printable teaching resources for primary and elementary school teachers worldwide. Used both in classrooms and by English language learners, our content supports phonics, literacy, maths and more through music, animation and fun.",
     "sameAs": [
       "https://www.youtube.com/c/SillySchoolEducation",
       "https://sillyschooleducation.mykajabi.com/"
@@ -116,8 +116,10 @@
     "audience": {
       "@type": "EducationalAudience",
       "educationalRole": "teacher",
-      "audienceType": "primary, elementary, EYFS"
+      "audienceType": "primary, elementary, EYFS, early childhood, lower elementary, Foundation Stage, English language learner"
     }
   }
 ]
+
+
 
