@@ -1,74 +1,95 @@
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "Downloadable Classroom Resources for Primary Teachers",
-  "description": "Printable PDFs, worksheets, visuals and planning tools designed by teachers for use in EYFS, KS1 and KS2 classrooms. These resources align with the UK National Curriculum and support maths, literacy, topic work and more — perfect for classroom use or home learning.",
-  "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
-  "educationalAlignment": {
-    "@type": "AlignmentObject",
-    "alignmentType": "educationalFramework",
-    "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
-    "targetName": "Downloadable and printable teaching materials across core primary subjects"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "Downloadable Classroom Resources for Primary Teachers",
+    "description": "Printable PDFs, worksheets, visuals and planning tools designed by teachers for use in EYFS, KS1 and KS2 classrooms. These resources align with the UK National Curriculum and support maths, literacy, topic work and more — perfect for classroom use or home learning.",
+    "keywords": ["printables", "worksheets", "lesson resources", "EYFS", "KS1", "KS2", "elementary", "primary", "teacher tools", "planning resources", "PDF downloads"],
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalFramework",
+      "educationalFramework": "UK National Curriculum, US Common Core, Australian Curriculum, New Zealand Curriculum",
+      "targetName": "Downloadable and printable teaching materials across core primary subjects"
+    },
+    "educationalUse": "teaching",
+    "learningResourceType": ["Printable PDF", "Worksheet", "Visual Aid", "Lesson Plan"],
+    "provider": {
+      "@type": "Organization",
+      "name": "Silly School Education",
+      "url": "https://www.sillyschooleducation.co.uk"
+    },
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher",
+      "audienceType": "primary, elementary, EYFS"
+    },
+    "inLanguage": "en",
+    "url": "https://sillyschooleducation.mykajabi.com/"
   },
-  "educationalUse": "teaching",
-  "learningResourceType": ["Printable PDF", "Worksheet", "Visual Aid", "Lesson Plan"],
-  "provider": {
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "School Plays & Assemblies for Primary Children",
+    "description": "Original school plays and assemblies written for EYFS, KS1 and KS2 children — complete with songs, scripts and staging suggestions. Designed to be inclusive, funny, and easy to rehearse and perform, they’re ideal for end-of-term shows and class presentations.",
+    "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary"],
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalFramework",
+      "educationalFramework": "UK National Curriculum, Ontario Curriculum, Australian Curriculum",
+      "targetName": "Drama and performance opportunities for primary-aged learners"
+    },
+    "educationalUse": "teaching",
+    "learningResourceType": ["Script", "Song", "Performance Plan"],
+    "provider": {
+      "@type": "Organization",
+      "name": "Silly School Education",
+      "url": "https://www.sillyschooleducation.co.uk"
+    },
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher",
+      "audienceType": "primary, elementary, kids"
+    },
+    "inLanguage": "en",
+    "url": "https://sillyschooleducation.mykajabi.com/"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Silly School Education",
-    "url": "https://www.sillyschooleducation.co.uk"
-  },
-  "audience": {
-    "@type": "EducationalAudience",
-    "educationalRole": "teacher",
-    "audienceType": "primary, elementary, EYFS"
-  },
-  "inLanguage": "en",
-  "url": "https://sillyschooleducation.mykajabi.com/"
-}
-
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "School Plays & Assemblies for Primary Children",
-  "description": "Original school plays and assemblies written for EYFS, KS1 and KS2 children — complete with songs, scripts and staging suggestions. Designed to be inclusive, funny, and easy to rehearse and perform, they’re ideal for end-of-term shows and class presentations.",
-
-  "keywords": ["school plays", "assemblies", "scripts", "songs", "performances", "end of term", "EYFS", "KS1", "KS2", "elementary", "primary"],
-  "educationalAlignment": {
-    "@type": "AlignmentObject",
-    "alignmentType": "educationalFramework",
-    "educationalFramework": "UK National Curriculum, Ontario Curriculum, Australian Curriculum",
-    "targetName": "Drama and performance opportunities for primary-aged learners"
-  },
-  "educationalUse": "teaching",
-  "learningResourceType": ["Script", "Song", "Performance Plan"],
-  "provider": {
-    "@type": "Organization",
-    "name": "Silly School Education",
-    "url": "https://www.sillyschooleducation.co.uk"
-  },
-  "audience": {
-    "@type": "EducationalAudience",
-    "educationalRole": "teacher",
-    "audienceType": "primary, elementary, kids"
-  },
-  "inLanguage": "en",
-  "url": "https://sillyschooleducation.mykajabi.com/"
-}
-
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Silly School Education",
-  "url": "https://www.sillyschooleducation.co.uk",
-  "description": "Silly School Education is a teacher-led educational platform providing curriculum-aligned songs, videos, and printable teaching resources for primary and elementary school teachers worldwide. With over 45 million YouTube views and a growing subscriber base, the platform supports educators through creative, classroom-ready content across all major subjects.",
-  "sameAs": [
-    "https://www.youtube.com/c/SillySchoolEducation",
-    "https://sillyschooleducation.mykajabi.com/"
-  ],
-  "areaServed": "Worldwide",
-  "audience": {
-    "@type": "EducationalAudience",
-    "educationalRole": "teacher",
-    "audienceType": "primary, elementary, EYFS"
+    "url": "https://www.sillyschooleducation.co.uk",
+    "description": "Silly School Education is a teacher-led educational platform providing curriculum-aligned songs, videos, and printable teaching resources for primary and elementary school teachers worldwide. With over 45 million YouTube views and a growing subscriber base, the platform supports educators through creative, classroom-ready content across all major subjects.",
+    "sameAs": [
+      "https://www.youtube.com/c/SillySchoolEducation",
+      "https://sillyschooleducation.mykajabi.com/"
+    ],
+    "areaServed": "Worldwide",
+    "serviceArea": [
+      {
+        "name": "United Kingdom",
+        "address": { "addressCountry": "GB" }
+      },
+      {
+        "name": "United States",
+        "address": { "addressCountry": "US" }
+      },
+      {
+        "name": "Canada",
+        "address": { "addressCountry": "CA" }
+      },
+      {
+        "name": "Australia",
+        "address": { "addressCountry": "AU" }
+      },
+      {
+        "name": "New Zealand",
+        "address": { "addressCountry": "NZ" }
+      }
+    ],
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher",
+      "audienceType": "primary, elementary, EYFS"
+    }
   }
-}
+]
